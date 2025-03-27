@@ -13,7 +13,7 @@ Follow these steps to set up and run the Tenzies Game project:
    Clone the project repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/assembly-endgame.git
+   git clone https://github.com/JohanMunozMendez/tenzies-game.git
    cd assembly-endgame
    ```
 
